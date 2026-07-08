@@ -1,9 +1,21 @@
-
 header{
-    background-color: #02afff;
-    color: #00ffdd;
+    background-color: #4cddf0;
+    color: #00ff73;
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
+}
+
+main{
+    background-color:#d410fc ;
+    color: #440eda
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+img {
+    width: 80px;
+    height: 80px;
 }
